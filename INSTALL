@@ -1,0 +1,9 @@
+Building PantherCoin
+
+See doc/readme-qt.rst for instructions on building PantherCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PantherCoin.
+
+See doc/build-*.txt for instructions on building panthercoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of PantherCoin.
